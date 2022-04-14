@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
         ),
         darkTheme: ThemeData.dark(),
-        home: const MyHomePage(title: 'Flutter IoT App'),
+        home: const MyHomePage(title: 'Flutter IoT App YJH'),
       );
 
   }
